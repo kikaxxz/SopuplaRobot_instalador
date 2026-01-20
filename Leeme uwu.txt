@@ -1,0 +1,5 @@
+Sopupla Robot v1.0 Software para generar trayectorias RAPID.
+Compatible con ABB IRB 140. 
+Instrucciones: Descargar y ejecutar.
+
+Programa desarrollado para facilitar la introducción a robótica avanzada.
